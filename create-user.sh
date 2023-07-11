@@ -1,0 +1,1 @@
+docker exec oracle createAppUser APP_USER APP_USER_PASSWORD
